@@ -9,3 +9,5 @@
  * Find my photos and some designs [Instagram](https://www.instagram.com/ayanrocks5/) :art:	
  * Friend me here for some chat [facebook](https://www.facebook.com/ayan.banerjee.378) :beers:		
  * Opportunities are redirected here [Linkedin](https://www.linkedin.com/in/ayanbanerjee21/) :star2:
+
+![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=Ayanrocks&show_icons=true&theme=radical)
