@@ -2,7 +2,7 @@
 
 ![Banner Ayan](https://github.com/Ayanrocks/Ayanrocks/blob/master/ghbanner.png)
 
-<p>I'm a 21 year old developer from City of Joy, Kolkata &#128513;. I'm passionate about code and creating something to help make millions of users lives more easy. Some of my languanges in my stack include (JS + Golang) and my Stack will include (Mern + Mevn + Pern + GraphQL). I use C++ as my hobby and will learn Rust some time in the future</p>
+<p>I'm a 25 year old developer from City of Joy, Kolkata &#128513;. I'm passionate about code and creating something to help make millions of users lives more easy. Some of my languanges in my stack include (JS + Golang) and my Stack will include (Mern + Mevn + Pern + GraphQL). I use C++ as my hobby and will learn Rust some time in the future</p>
 
 ## Find me roaming around on web :earth_asia:
  * Here is my [Github](https://github.com/Ayanrocks) :octocat: but you are here already :stuck_out_tongue:	
