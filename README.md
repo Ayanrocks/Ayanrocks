@@ -1,13 +1,72 @@
-# Hey, I'm Ayan, :wave:
+<div align="center">
 
-![Banner Ayan](https://github.com/Ayanrocks/Ayanrocks/blob/master/ghbanner.png)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hey, I'm Ayan Banerjee
 
-<p>I'm a 25 year old developer from City of Joy, Kolkata &#128513;. I'm passionate about code and creating something to help make millions of users lives more easy. Some of my languanges in my stack include (JS + Golang) and my Stack will include (Mern + Mevn + Pern + GraphQL). I use C++ as my hobby and will learn Rust some time in the future</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Creative+Developer+from+Kolkata;Building+Things+for+Millions;Passionate+about+Code+%26+Design" alt="Typing SVG" />
 
-## Find me roaming around on web :earth_asia:
- * Here is my [Github](https://github.com/Ayanrocks) :octocat: but you are here already :stuck_out_tongue:	
- * Find my photos and some designs [Instagram](https://www.instagram.com/ayanrocks5/) :art:	
- * Friend me here for some chat [facebook](https://www.facebook.com/ayan.banerjee.378) :beers:		
- * Opportunities are redirected here [Linkedin](https://www.linkedin.com/in/ayanbanerjee21/) :star2:
+<br/>
 
-![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=Ayanrocks&show_icons=true&theme=radical)
+<img src="https://github.com/Ayanrocks/Ayanrocks/raw/master/ghbanner.png" alt="Banner Ayan" style="max-width: 100%; border-radius: 12px; margin-top: 15px;">
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<div align="center">
+  Greetings from the <b>City of Joy, Kolkata</b> 🏙️!<br/>
+  I'm a 27-year-old developer obsessed with creating clean, scalable, and impactful solutions that make people's lives easier.<br/>
+  While I specialize in JavaScript and Golang ecosystems, I also like exploring Systems Programming with C++ and Rust as a hobby.
+</div>
+
+<br/>
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,graphql,vue,postgres,golang,cpp,rust,docker,linux,git&theme=dark" alt="Skill Icons" />
+  </a>
+</p>
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayanrocks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanrocks&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=00F0FF&dates=00F0FF" height="195" alt="GitHub Streak" />
+</div>
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayanbanerjee21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ayanrocks5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/ayan.banerjee.378"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+---
+
+### 🌌 3D GitHub Contributions & Activity Snake
+
+<div align="center">
+  <p><b>My 3D Contribution Graph</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-night-view.svg" style="max-width: 100%;">
+  </picture>
+</div>
+
+<div align="center">
+  <p><b>Animated Activity Snake</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/output/github-contribution-grid-snake.svg">
+    <img alt="Activity Snake" src="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+  </picture>
+</div>
+
+<div align="center">
+  <i>(Note: The 3D elements and snake animation are automatically generated and updated daily by GitHub Actions.)</i>
+</div>
