@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,graphql,vue,postgres,golang,cpp,rust,docker,linux,git&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=golang,python,js,rust,ts,react,nodejs,express,postgres,mongodb,graphql,vue,cpp,docker,linux,git&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
@@ -46,9 +46,9 @@
 <div align="center">
   <p><b>My 3D Contribution Graph</b></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Ayanrocks/Ayanrocks/main/profile-3d-contrib/profile-night-view.svg" style="max-width: 100%;">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" style="max-width: 100%;">
   </picture>
 </div>
 
