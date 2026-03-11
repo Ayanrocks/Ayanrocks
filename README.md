@@ -1,12 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hey, I'm Ayan Banerjee
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=fdc921&center=true&vCenter=true&width=600&lines=Creative+Developer+from+Kolkata;Building+Things+for+Millions;Passionate+about+Code+%26+Design" alt="Typing SVG" />
-
-<br/>
-
-<img src="./banner.png" alt="3D Profile Banner" style="max-width: 100%; border-radius: 12px; margin-top: 15px;">
+<img src="./banner.svg" alt="3D Profile Banner" style="max-width: 100%; border-radius: 12px; margin-top: 15px;">
 
 </div>
 
