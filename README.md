@@ -2,11 +2,11 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hey, I'm Ayan Banerjee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Creative+Developer+from+Kolkata;Building+Things+for+Millions;Passionate+about+Code+%26+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=fdc921&center=true&vCenter=true&width=600&lines=Creative+Developer+from+Kolkata;Building+Things+for+Millions;Passionate+about+Code+%26+Design" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://github.com/Ayanrocks/Ayanrocks/raw/master/ghbanner.png" alt="Banner Ayan" style="max-width: 100%; border-radius: 12px; margin-top: 15px;">
+<img src="./banner.png" alt="3D Profile Banner" style="max-width: 100%; border-radius: 12px; margin-top: 15px;">
 
 </div>
 
@@ -33,8 +33,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayanrocks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanrocks&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=00F0FF&dates=00F0FF" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayanrocks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fdc921&text_color=fffdf7&icon_color=99d6ea&ring_color=fdd85d" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanrocks&theme=tokyonight&hide_border=true&background=0D1117&ring=fdc921&fire=fdc921&currStreakLabel=fdd85d&currStreakNum=fffdf7&sideNums=fffdf7&sideLabels=6798c0&dates=99d6ea" height="195" alt="GitHub Streak" />
 </div>
 
 ### 🌐 Let's Connect!
